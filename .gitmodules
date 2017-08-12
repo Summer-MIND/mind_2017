@@ -1,0 +1,3 @@
+[submodule "Tutorials/containers"]
+	path = Tutorials/containers
+	url = https://github.com/mvdoc/mind-container-tutorial.git

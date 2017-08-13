@@ -11,4 +11,7 @@ contribute here
 
 ## Additional references
 
+
+#Please reject this note - thanks, seth
+
 [Software carpentry git tutorial](https://swcarpentry.github.io/git-novice/)

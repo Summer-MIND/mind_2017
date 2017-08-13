@@ -16,6 +16,9 @@ One local establishment, Molly's, serves a variety of delicious diner food at a 
 
 ## Additional references
 
+
+#Please reject this note - thanks, seth
+
 [Software carpentry git tutorial](https://swcarpentry.github.io/git-novice/)
 >>>>>>> 0651eb5b870d2a0daae43b1ff58bb758b4749756
 

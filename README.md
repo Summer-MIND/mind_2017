@@ -11,3 +11,7 @@ contribute here
 
 ## Additional references
 
+## Attendees:
+Jin Cheong
+Yuan Chang Leong 
+

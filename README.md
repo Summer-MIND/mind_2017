@@ -5,7 +5,7 @@ and share their knowledge
 
 ## Introduction
 
-contribute here
+Rose Cooper - changes to README
 
 ## Materials
 

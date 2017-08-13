@@ -11,3 +11,4 @@ contribute here
 
 ## Additional references
 
+[Software carpentry git tutorial](https://swcarpentry.github.io/git-novice/)

@@ -5,7 +5,8 @@ and share their knowledge
 
 ## Introduction
 
-contribute here
+This folder contains necessary material for the MIND 2017 summer school held at Dartmouth Colleague, NH. 
+Eating rice from a bowl. 
 
 ## Materials
 

@@ -1,3 +1,6 @@
 [submodule "Tutorials/containers"]
 	path = Tutorials/containers
 	url = https://github.com/mvdoc/mind-container-tutorial.git
+[submodule "jupyter_notebooks"]
+	path = Tutorials/jupyter_notebooks
+	url = https://github.com/dartmouth-brainhack-2017/IntroToJupyter

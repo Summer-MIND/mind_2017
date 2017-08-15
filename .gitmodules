@@ -7,3 +7,6 @@
 [submodule "Tutorials/rs_functional_connectivity"]
 	path = Tutorials/rs_functional_connectivity
 	url = https://github.com/cgratton/DartmouthMIND_tutorial
+[submodule "Tutorials/tlsa_matlab"]
+	path = Tutorials/tlsa_matlab
+	url = https://github.com/sjgershm/tlsa_matlab

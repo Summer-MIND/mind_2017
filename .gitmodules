@@ -4,3 +4,6 @@
 [submodule "jupyter_notebooks"]
 	path = Tutorials/jupyter_notebooks
 	url = https://github.com/dartmouth-brainhack-2017/IntroToJupyter
+[submodule "Tutorials/rs_functional_connectivity"]
+	path = Tutorials/rs_functional_connectivity
+	url = https://github.com/cgratton/DartmouthMIND_tutorial
